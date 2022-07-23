@@ -4,7 +4,7 @@
 
 Tujuan utama dari repositori ini adalah untuk menunjukkan pengaturan proyek dan alur kerja end-to-end yang baik untuk menulis kode Mongoose,Node.js dan Express dalam TypeScript .lengkap dengan middleware, model, route, dan tipe.
 
-Contoh ini dilengkapi dengan REST API yang lengkap. untuk menangani fitur Otentikasi dan CRUD.
+Contoh ini dilengkapi dengan REST API yang lengkap. untuk menangani fitur Authentifikasi dan CRUD.
 
 ## Teknologi
 
@@ -13,7 +13,7 @@ Contoh ini dilengkapi dengan REST API yang lengkap. untuk menangani fitur Otenti
 **DataBase:** mongoose
 
 
-## Run di local
+## Jalankan di lokal
 
 Clone project
 

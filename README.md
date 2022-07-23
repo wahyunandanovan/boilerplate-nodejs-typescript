@@ -13,21 +13,21 @@ Contoh ini dilengkapi dengan REST API yang lengkap. untuk menangani fitur Otenti
 **DataBase:** mongoose
 
 
-## Run Locally
+## Run di local
 
 Clone project
 
 ```bash
-  git clone https://github.com/chiragmehta900/node-typescript-boilerplate-mongoose
+  git clone https://github.com/wahyunandanovan/node-typescript-template.git
 ```
 
-Pergi ke project directory
+Pergi ke project direktori
 
 ```bash
   cd node-typescript-boilerplate-mongoose
 ```
 
-Instal dependencies
+Instal dependency
 
 ```bash
   npm install

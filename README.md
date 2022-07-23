@@ -1,5 +1,5 @@
 
-# Node TypeScript Template
+# Node TypeScript 
 
 
 Tujuan utama dari repositori ini adalah untuk menunjukkan pengaturan proyek dan alur kerja end-to-end yang baik untuk menulis kode Mongoose,Node.js dan Express dalam TypeScript .lengkap dengan middleware, model, route, dan tipe.
@@ -18,13 +18,13 @@ Contoh ini dilengkapi dengan REST API yang lengkap. untuk menangani fitur Authen
 Clone project
 
 ```bash
-  git clone https://github.com/wahyunandanovan/node-typescript-template.git
+  git clone https://github.com/wahyunandanovan/node-typescript.git
 ```
 
 Pergi ke project direktori
 
 ```bash
-  cd node-typescript-template
+  cd node-typescript
 ```
 
 Instal dependency

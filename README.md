@@ -2,7 +2,7 @@
 # Node TypeScript Template
 
 
-Tujuan utama dari repositori ini adalah untuk menunjukkan pengaturan proyek dan alur kerja end-to-end yang baik untuk menulis kode Mongoose,Node.js dan Express dalam TypeScript .lengkap dengan middleware, model, rute, dan tipe.
+Tujuan utama dari repositori ini adalah untuk menunjukkan pengaturan proyek dan alur kerja end-to-end yang baik untuk menulis kode Mongoose,Node.js dan Express dalam TypeScript .lengkap dengan middleware, model, route, dan tipe.
 
 Contoh ini dilengkapi dengan REST API yang lengkap. untuk menangani fitur Otentikasi dan CRUD.
 
@@ -24,7 +24,7 @@ Clone project
 Pergi ke project direktori
 
 ```bash
-  cd node-typescript-boilerplate-mongoose
+  cd node-typescript-template
 ```
 
 Instal dependency
@@ -60,7 +60,7 @@ Untuk menjalankan proyek ini, Anda perlu menambahkan variabel lingkungan berikut
 `SMTP_PASSWORD`, 
 `SMTP_SENDER`,
 
-> **Note!** Pastikan Anda sudah membuat aplikasi menggunakannpm run start
+> **Note!** Pastikan Anda sudah membuat aplikasi menggunakan npm run start
 
 ## Refrensi API 
 

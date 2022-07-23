@@ -75,7 +75,7 @@ const login = async (
     }
 };
 
-//USER GORGOT PASSWORD
+//USER FORGOT PASSWORD
 const forgotPassword = async (
     req: Request,
     res: Response,

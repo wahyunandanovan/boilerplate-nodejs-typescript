@@ -35,7 +35,7 @@ const createUser = async (req: Request, res: Response, next: NextFunction) => {
         }
         //ENCRYPTION PASSWORD
         const hashPassword = await hash(password, 12);
-        //CRETA NEW USRE
+        //CREAT NEW USER
         let user = new User({
             firstName,
             lastName,

@@ -94,7 +94,7 @@ Untuk menjalankan proyek ini, Anda perlu menambahkan variabel lingkungan berikut
 #### Get all users
 
 ```http
-  GET api/v1/user/fetch
+  GET /api/v1/user/fetch
 ```
 
 | Parameter | Type     | Description                |

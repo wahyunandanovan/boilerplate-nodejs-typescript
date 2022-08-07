@@ -67,7 +67,7 @@ Untuk menjalankan proyek ini, Anda perlu menambahkan variabel lingkungan berikut
 #### Create user
 
 ```http
-  POST user/sign-up
+  POST /api/v1/user/sign-up
 ```
 
 | Parameter | Type     | Description                       |
@@ -82,7 +82,7 @@ Untuk menjalankan proyek ini, Anda perlu menambahkan variabel lingkungan berikut
 #### login user
 
 ```http
-  POST auth/login
+  POST /api/v1/auth/login
 ```
 
 | Parameter | Type     | Description                       |
@@ -94,7 +94,7 @@ Untuk menjalankan proyek ini, Anda perlu menambahkan variabel lingkungan berikut
 #### Get all users
 
 ```http
-  GET user/fetch
+  GET api/v1/user/fetch
 ```
 
 | Parameter | Type     | Description                |

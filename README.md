@@ -1,5 +1,5 @@
 
-# Node TypeScript 
+# Boilerplate Nodejs TypeScript 
 
 
 Tujuan utama dari repositori ini adalah untuk menunjukkan pengaturan proyek dan alur kerja end-to-end yang baik untuk menulis kode Mongoose,Node.js dan Express dalam TypeScript .lengkap dengan middleware, model, route, dan tipe.
